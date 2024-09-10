@@ -60,7 +60,6 @@ function generateBoard(boardMetadata) {
 
     openedSquares = [];
     flaggedSquares = [];
-
     console.log(board);
 }
 
